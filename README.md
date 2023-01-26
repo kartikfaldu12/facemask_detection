@@ -8,7 +8,7 @@ Step 1:Exceute train.py (Training the model with the appropriate dataset and wei
 
 Step 2:add the model weight in test.py program and execute it.
 
-Precautions:
+Prerequisites:
 
 1) Make sure that all the required libraries are installed. (For reference : libraries mentioned in requirements.txt, install in command prompt using pip)
 2) Checkup whether the mentioned filepath of the dataset and face_detector are correct, as it may end up with an error if that is not correct.
